@@ -95,7 +95,7 @@ HTML-tastk
       position: relative;
     }
 
-    /* A decorative placeholder – swap src for a real video/image */
+    
     .hero-media video,
     .hero-media img {
       width: 100%; height: 100%; object-fit: cover;
